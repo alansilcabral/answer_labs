@@ -1,5 +1,10 @@
 {
   "name": "answer_labs",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alansilcabral/answer_labs.git",
+  "author": "alansilcabral <<cabralsilva.alan@gmail.com>>",
+  "license": "MIT"
 }
