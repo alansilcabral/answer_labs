@@ -40,6 +40,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'devise'
 gem 'rails-i18n', '5.1'
 gem 'tty-spinner'
+gem 'faker'
 
 
 
