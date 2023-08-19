@@ -10,11 +10,15 @@ pt-BR:
     attributes:
       admin:
         id: "Código"
-        email: "email"
+        email: "Email"
+        password: "Senha"
+        password_confirmation: "Confimação de Senha"
         created_at: "Criado em"
         updated_at: "Atualizado em"
       user:
         id: "Código"
-        email: "email"
+        email: "Email"
+        password: "Senha"
+        password_confirmation: "Confimação de Senha"
         created_at: "Criado em"
         updated_at: "Atualizado em"
